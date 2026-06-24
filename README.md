@@ -109,21 +109,6 @@ Integrated locally hosted language models through Ollama, allowing AI processing
 
 ---
 
-# 📸 Future Improvements
-
-- Voice input and speech-to-text
-- Audio file analysis
-- Video analysis
-- Drag-and-drop uploads
-- Markdown rendering
-- Copy AI response button
-- Regenerate response feature
-- Multi-model selection
-- User authentication
-- Cloud deployment support
-
----
-
 # 👨‍💻 Author
 
 Computer Engineering Graduate with experience in:
